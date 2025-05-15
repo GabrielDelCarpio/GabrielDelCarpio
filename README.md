@@ -1,3 +1,4 @@
+<img src="https://github.com/GabrielDelCarpio/GabrielDelCarpio/blob/main/Assets/Portada%20github.png" alt="Mi portada" width="100%">
 
 ### Hi there, I'm Gabriel Del Carpio 👋
 

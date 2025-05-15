@@ -54,11 +54,12 @@ Through this medium, I share my study projects oriented towards machine learning
 <p align = "center">
 
 <!--![<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">]<!--!(https://durgeshsamariya.github.io)-->
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](www.linkedin.com/in/delcarpioc)
-[<img src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=google&logoColor=white&color=black" />](g.dcarpio.cca@gmail.com)
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/delcarpioc/)
+[<img src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=google&logoColor=white&color=black" />](mailto:.dcarpio.cca@gmail.com)
 <!--![<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />]<!--!(https://instagram.com/themlphdstudent)-->
 </p>
 
-
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=durgeshsamariya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshsamariya&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 

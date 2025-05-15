@@ -1,4 +1,4 @@
-<!--!<img src="https://github.com/GabrielDelCarpio/GabrielDelCarpio/blob/main/Assets/Portada%20github.png" alt="Mi portada" width="100%">-->
+<img src="https://media-hosting.imagekit.io/7277f1e9c88f42df/Portada%20github%202.png?Expires=1841878419&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=HkU1mR3CKZzsr3Ch~6IRVxtAiEWLRIjlFFRuiSuytoKwbvZ-G8HZYOfS8b4YQY7GlctNyq~1NNXlIp39YTt8px28nGqLEacsMc06EjoyFKh7JTLmjUYzCN1KZ9WAoOhx-WlEeVmDe-1D~0PXMj4fyJrC52SsQNtxy50aTOy31YXNA0X8SQS0cgCeS9NlWIAiHic1wXUmPG-tFSy7DpgyJxzXQPTPOLV0kpSBZNI2ssHXyRbxPAd8sdL6~Pyra-nPqNqkWR3xHkY7jBetHwU~T2CPXdGZF-tj-JTV441osF60ravN2l02p1gBF9I48vNSMzZld9hWS89qQYd9uYCv0Q__" alt="Mi portada" width="100%">
 
 ### Hi there, I'm Gabriel Del Carpio 👋
 

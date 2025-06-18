@@ -9,8 +9,8 @@ Through this medium, I share my study projects oriented towards machine learning
  **I am open to**:
 
 - any collaboration work,
-- machine learning projects(development or research),
-- research and finance internships 
+- machine learning projects (development or research),
+- research, finance and data analysis internships 
 
 ## Skills:
 

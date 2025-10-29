@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Gabriel Del Carpio 👋
 
-Economics student at the Pontifical Catholic University of Peru, with an interest in quantitative methods applied to finance and macroeconomics. I have experience in the public and banking sectors. I am a mentally active person with a strong desire to grow.
+Graduate in Economics from the Pontifical Catholic University of Peru, with an interest in quantitative methods applied to finance, business analysis, and AI applications. I have experience in the public sector, banking, and business consulting. I am a mentally active person with a strong desire to grow.
 
 Through this medium, I share my study projects oriented towards machine learning methods, econometric models, and data analysis.
 
